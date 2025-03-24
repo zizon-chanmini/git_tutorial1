@@ -4,4 +4,8 @@ second line
 =======
 1 line
 2 line
+<<<<<<< Updated upstream
 >>>>>>> 4499b553c6c0b23690d1c00ab1cbfe44de3487d2
+=======
+3 line
+>>>>>>> Stashed changes
